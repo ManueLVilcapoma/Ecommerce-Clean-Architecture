@@ -14,6 +14,13 @@ public class EcommerceDbContext:IdentityDbContext<Usuario>{
 
     protected override void OnModelCreating(ModelBuilder modelBuilder){
         base.OnModelCreating(modelBuilder);
+        //Relacion de uno a muchos de categoria con productos
+        modelBuilder.Entity<Category>().HasMany(p=>p.Products)
+        .WithOne(r => r.Category)
+        .HasForeignKey(r => r.CategoryId)
+        .IsRequired()
+        .OnDelete(DeleteBehavior.Restrict);
+        //
         //Cuando trabajes con mysql es muy necesario
         modelBuilder.Entity<Usuario>().Property(e => e.Id).HasMaxLength(36);
         modelBuilder.Entity<Usuario>().Property(e => e.NormalizedUserName).HasMaxLength(90);
