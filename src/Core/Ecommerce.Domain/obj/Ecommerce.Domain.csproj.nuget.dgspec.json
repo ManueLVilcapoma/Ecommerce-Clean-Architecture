@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
+    "c:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "c:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "C:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "c:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\Gilme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "c:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

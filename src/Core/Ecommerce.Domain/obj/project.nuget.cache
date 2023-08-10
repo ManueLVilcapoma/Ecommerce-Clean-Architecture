@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bD8d0GdxGmG+n7J528RndFktZNRwDIic7GVSQaJNrvex/Eh0x6LJvPkgt3y2uKpA3rZ+ZzZK2tW4z71Nii7jaA==",
+  "dgSpecHash": "UB2cG3fpwLNqG7d3k/lcL1UKbzTPYH1vELHSGTQAwG46xKZYNATCIFLaIWbiW/4ulbcybEksMA54XgwDvYU32g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "c:\\Users\\Gilme\\OneDrive\\Escritorio\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gilme\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Gilme\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
